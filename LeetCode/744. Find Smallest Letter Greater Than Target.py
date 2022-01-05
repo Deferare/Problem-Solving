@@ -3,7 +3,7 @@ class Solution:
         left = 0
         right = len(letters) - 1
         min_result = letters[-1]
-        while left < right and left < len(letters):
+        while left < right:
             mid = (left + right) // 2
             if letters[mid] > target[0] and letters[mid] < min_result:
                 min_result = letters[mid]
