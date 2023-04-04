@@ -1,2 +1,1 @@
-## 정답 처리된 거만 올립니다.
-
+## This repository contains only correct solutions.
