@@ -1,1 +1,1 @@
-## This repository contains only correct solutions.
+## Only correct solutions are stored.
